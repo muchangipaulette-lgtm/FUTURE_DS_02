@@ -112,7 +112,5 @@ Daily trends show irregular fluctuations. Introduce delivery pacing, A/B testing
 ## 👩‍💻 **Author**
 
 **Paulette Muchangi**
-Data Analyst 
 
-
-Just tell me!
+Data Analyst
