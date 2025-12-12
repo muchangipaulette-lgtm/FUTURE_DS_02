@@ -33,9 +33,7 @@ Includes visually rich and interactive views such as:
 ### ✔ **Slicers Included**
 
 * Age
-* Gender
 * Reporting Date
-* Interests
 
 These allow users to drill into specific audience segments.
 
